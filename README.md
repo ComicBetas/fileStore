@@ -1,4 +1,4 @@
 fileStore
 =========
 
-use a file to store instead of a DB
+use a file to store data in json format instead of a DB
